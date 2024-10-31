@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+.scope-publisher-wrap {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.scope-btn {
+    box-shadow: 3px 3px 0 0 #00b8ae;
+    background-color: #fff;
+    border-color: #00b8ae;
+    color: #00b8ae;
+    padding: 8px 36px;
+    transition: box-shadow .3s ease;
+    cursor: pointer;
+    min-width: 230px;
+}
+
+.scope-hide {
+    display: none;
+}
+
+#scope-activation-key {
+    background-color: #fff;
+    border: 2px solid #00b8ae;
+    padding: 6px 12px;
+}
